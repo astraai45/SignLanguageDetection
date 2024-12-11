@@ -1,0 +1,29 @@
+Steps to Setup the Environment
+0. Create the python Virtual Environment with python 3.9 version
+ [https://www.python.org/downloads/release/python-390/]  --> Scroll Complete Down & Install x86-executable installer
+1. pip install -r requirements.txt
+
+
+python app.py to run the Live Feed
+
+- Provide the Name of the Label then follow the bellow instructions
+
+1. Know the Instructions
+    1. s -> Start Collection
+    2. q -> End Collection
+    3. x -> Terminate the Execution Feed
+
+
+- After this Images with that Label will be saved into the required Directory
+
+Signs
+
+1. Thumbs Up
+2. Thumbs Down 
+3. Thank you
+4. Yes
+5. No
+6. I Love you
+7. Victory
+8. Stop
+9. Hello

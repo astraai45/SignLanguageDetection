@@ -1,0 +1,12 @@
+opencv-python
+opencv-contrib-python
+cvzone
+numpy
+mediapipe
+deepface==0.0.93
+tf-keras
+tensorflow==2.12.0
+streamlit==1.38.0
+
+# tensorflow==2.12.0 or 2.14.0
+# python 3.8 to solve the problem
